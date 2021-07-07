@@ -1,0 +1,24 @@
+{
+  "name": "ana",
+  "version": "1.0.0",
+  "description": "Nothing good here",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hrr817/learn-python.git"
+  },
+  "keywords": [
+    "learning",
+    "python",
+    "python3"
+  ],
+  "author": "itshrr17",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hrr817/learn-python/issues"
+  },
+  "homepage": "https://github.com/hrr817/learn-python#readme"
+}
